@@ -4,36 +4,26 @@ This document contains detailed notes about specific events and counter numbers 
 
 ## Files with "Cycled" Measurements
 
-These files track sequential device on/off cycles with specific counter markers indicating state changes:
+These files track device on/off cycles with specific counter markers for the cycled device:
 
 ### Straightener_On_hairdryer_Cycled.log
-- **Initial state**: All devices OFF
-- **Straightener (non-cycled)**: Turned ON around **counter 1577**
-- **Hair dryer (cycled)**: Turned ON
+- **Hair dryer (cycled)**: Turned ON around **counter 1577**
 - **Hair dryer (cycled)**: Turned OFF around **counter 1709**
 
 ### hairdryer_On_airpurifier_Cycled.log
-- **Initial state**: All devices OFF
-- **Hair dryer (non-cycled)**: Turned ON around **counter 1961**
-- **Air purifier (cycled)**: Turned ON
+- **Air purifier (cycled)**: Turned ON around **counter 1961**
 - **Air purifier (cycled)**: Turned OFF around **counter 2167**
 
 ### Straightener_On_Purifier_Cycled.log
-- **Initial state**: All devices OFF
-- **Hair straightener (non-cycled)**: Turned ON around **counter 2331**
-- **Air purifier (cycled)**: Turned ON
+- **Air purifier (cycled)**: Turned ON around **counter 2331**
 - **Air purifier (cycled)**: Turned OFF around **counter 2569**
 
 ### airpurifier_On_hairdryer_Cycled.log
-- **Initial state**: All devices OFF
-- **Air purifier (non-cycled)**: Turned ON around **counter 2836**
-- **Hair dryer (cycled)**: Turned ON
+- **Hair dryer (cycled)**: Turned ON around **counter 2836**
 - **Hair dryer (cycled)**: Turned OFF around **counter 2980**
 
 ### hairdryer_On_hairstraightner_Cycled.log
-- **Initial state**: All devices OFF
-- **Hair dryer (non-cycled)**: Turned ON around **counter 3265**
-- **Hair straightener (cycled)**: Turned ON
+- **Hair straightener (cycled)**: Turned ON around **counter 3265**
 - **Hair straightener (cycled)**: Turned OFF around **counter 3462**
 
 ---
