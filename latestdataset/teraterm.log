@@ -1,0 +1,598 @@
+[meter] #205 V=246.40 V  I=0.534 A  P=128.4 W  PF=0.976  f=49.98 Hz  E=0.637 Wh  heap=18560
+[meter] #210 V=246.47 V  I=0.514 A  P=128.8 W  PF=1.000  f=49.98 Hz  E=0.817 Wh  heap=18560
+[meter] #215 V=246.61 V  I=0.534 A  P=129.8 W  PF=0.985  f=49.98 Hz  E=0.996 Wh  heap=18560
+[meter] #220 V=246.57 V  I=0.534 A  P=127.9 W  PF=1.000  f=49.98 Hz  E=1.176 Wh  heap=18560
+[meter] #225 V=246.47 V  I=0.534 A  P=127.2 W  PF=0.966  f=49.98 Hz  E=1.355 Wh  heap=18560
+[meter] #230 V=246.04 V  I=0.534 A  P=127.7 W  PF=1.000  f=49.98 Hz  E=1.534 Wh  heap=18560
+[meter] #235 V=245.72 V  I=0.534 A  P=124.6 W  PF=0.949  f=49.98 Hz  E=1.713 Wh  heap=18560
+[meter] #240 V=245.54 V  I=0.514 A  P=126.6 W  PF=1.000  f=49.96 Hz  E=1.891 Wh  heap=18560
+[meter] #245 V=244.37 V  I=3.106 A  P=691.8 W  PF=0.917  f=49.96 Hz  E=2.583 Wh  heap=18560
+[meter] #250 V=245.05 V  I=1.523 A  P=370.8 W  PF=0.993  f=49.96 Hz  E=3.195 Wh  heap=18560
+[meter] #255 V=245.12 V  I=1.404 A  P=340.0 W  PF=0.987  f=49.96 Hz  E=3.687 Wh  heap=18560
+[meter] #260 V=245.30 V  I=1.365 A  P=330.3 W  PF=1.000  f=49.96 Hz  E=4.151 Wh  heap=18560
+[meter] #265 V=245.47 V  I=1.305 A  P=323.4 W  PF=1.000  f=49.96 Hz  E=4.601 Wh  heap=18560
+[meter] #270 V=245.44 V  I=1.286 A  P=317.2 W  PF=1.000  f=49.96 Hz  E=5.040 Wh  heap=18560
+[meter] #275 V=245.40 V  I=1.266 A  P=311.9 W  PF=1.000  f=49.96 Hz  E=5.471 Wh  heap=18560
+[meter] #280 V=245.40 V  I=1.226 A  P=303.7 W  PF=0.992  f=49.96 Hz  E=5.895 Wh  heap=18560
+[meter] #285 V=244.98 V  I=2.136 A  P=518.5 W  PF=0.999  f=49.96 Hz  E=6.522 Wh  heap=18560
+[meter] #290 V=245.08 V  I=2.117 A  P=511.6 W  PF=0.986  f=49.96 Hz  E=7.242 Wh  heap=18560
+[meter] #295 V=245.12 V  I=2.097 A  P=510.6 W  PF=0.993  f=49.96 Hz  E=7.957 Wh  heap=18560
+[meter] #300 V=245.05 V  I=2.077 A  P=503.8 W  PF=0.989  f=49.96 Hz  E=8.667 Wh  heap=18560
+[meter] #305 V=244.76 V  I=2.077 A  P=501.9 W  PF=0.987  f=49.96 Hz  E=9.374 Wh  heap=18560
+[meter] #310 V=245.33 V  I=2.057 A  P=501.5 W  PF=0.984  f=49.96 Hz  E=10.076 Wh  heap=18560
+[meter] #315 V=245.30 V  I=2.037 A  P=498.8 W  PF=0.997  f=49.96 Hz  E=10.775 Wh  heap=18560
+[meter] #320 V=245.69 V  I=2.037 A  P=501.4 W  PF=1.000  f=49.96 Hz  E=11.472 Wh  heap=18560
+[meter] #325 V=242.92 V  I=8.072 A  P=1971.1 W  PF=1.000  f=49.96 Hz  E=13.527 Wh  heap=13240
+[ERROR] [334005] [ST67W6XTask] (w61_at_sys.c:340) sem_if_ready not received
+[ERROR] [334005] [ST67W6XTask] (w61_at_common.c:380) sem_if_ready not received
+[ERROR] [334005] [ST67W6XTask] (w61_at_sys.c:312) Could not init Modem handler
+[ERROR] [334005] [ST67W6XTask] (main_app.c:411) [ERROR] in W6X_Init API
+[ERROR] [334005] [ST67W6XTask] (w6x_sys.c:136) W61 Init failed
+[ERROR] [334006] [ST67W6XTask] (main_app.c:225) ST67W611M1 not responding: check wiring (SPI, RDY, EN, 3V3) and module firmware
+Retrying the Wi-Fi module in 300 s (metering continues). Press RESET then 't' to test it.
+[meter] #330 V=242.99 V  I=8.072 A  P=1976.5 W  PF=1.000  f=49.96 Hz  E=16.248 Wh  heap=18312
+[meter] #335 V=242.78 V  I=8.052 A  P=1973.6 W  PF=1.000  f=49.96 Hz  E=18.964 Wh  heap=18312
+[meter] #340 V=242.71 V  I=8.033 A  P=1970.7 W  PF=1.000  f=49.96 Hz  E=21.676 Wh  heap=18312
+[meter] #345 V=242.46 V  I=8.013 A  P=1955.8 W  PF=1.000  f=49.96 Hz  E=24.381 Wh  heap=18312
+[meter] #350 V=242.42 V  I=8.013 A  P=1931.6 W  PF=0.994  f=49.96 Hz  E=27.081 Wh  heap=18312
+[meter] #355 V=242.35 V  I=7.993 A  P=1925.0 W  PF=0.991  f=49.96 Hz  E=29.780 Wh  heap=18312
+[meter] #360 V=242.24 V  I=7.993 A  P=1923.0 W  PF=0.993  f=49.96 Hz  E=32.472 Wh  heap=18312
+[meter] #365 V=242.78 V  I=7.103 A  P=1726.3 W  PF=1.000  f=49.96 Hz  E=35.074 Wh  heap=18312
+[meter] #370 V=242.92 V  I=7.103 A  P=1741.8 W  PF=1.000  f=49.96 Hz  E=37.468 Wh  heap=18312
+[meter] #375 V=242.85 V  I=7.083 A  P=1736.9 W  PF=1.000  f=49.96 Hz  E=39.861 Wh  heap=18312
+[meter] #380 V=242.53 V  I=7.083 A  P=1723.1 W  PF=1.000  f=49.96 Hz  E=42.248 Wh  heap=18312
+[meter] #385 V=242.35 V  I=7.083 A  P=1712.6 W  PF=1.000  f=49.96 Hz  E=44.629 Wh  heap=18312
+[meter] #390 V=242.53 V  I=7.063 A  P=1702.9 W  PF=0.993  f=49.96 Hz  E=47.009 Wh  heap=18312
+[meter] #395 V=242.56 V  I=7.063 A  P=1701.0 W  PF=0.990  f=49.98 Hz  E=49.391 Wh  heap=18312
+[meter] #400 V=242.60 V  I=7.043 A  P=1699.4 W  PF=0.991  f=49.98 Hz  E=51.772 Wh  heap=18312
+[meter] #405 V=242.88 V  I=6.549 A  P=1581.0 W  PF=0.993  f=49.98 Hz  E=54.052 Wh  heap=18312
+[meter] #410 V=242.92 V  I=6.569 A  P=1591.4 W  PF=1.000  f=50.00 Hz  E=56.266 Wh  heap=18312
+[meter] #415 V=243.17 V  I=6.569 A  P=1609.6 W  PF=1.000  f=50.00 Hz  E=58.484 Wh  heap=18312
+[meter] #420 V=243.52 V  I=6.569 A  P=1611.4 W  PF=1.000  f=50.00 Hz  E=60.705 Wh  heap=18312
+[meter] #425 V=243.52 V  I=6.569 A  P=1588.5 W  PF=0.990  f=50.00 Hz  E=62.932 Wh  heap=18312
+[meter] #430 V=243.45 V  I=6.569 A  P=1615.6 W  PF=1.000  f=50.00 Hz  E=65.157 Wh  heap=18312
+[meter] #435 V=243.70 V  I=6.569 A  P=1597.5 W  PF=0.995  f=50.02 Hz  E=67.383 Wh  heap=18312
+[meter] #440 V=243.66 V  I=6.569 A  P=1616.3 W  PF=1.000  f=50.02 Hz  E=69.612 Wh  heap=18312
+[meter] #445 V=242.78 V  I=7.340 A  P=1779.9 W  PF=0.998  f=50.00 Hz  E=72.255 Wh  heap=18312
+[meter] #450 V=242.67 V  I=7.162 A  P=1733.0 W  PF=0.996  f=50.00 Hz  E=74.689 Wh  heap=18312
+[meter] #455 V=242.88 V  I=7.123 A  P=1739.5 W  PF=1.000  f=50.00 Hz  E=77.095 Wh  heap=18312
+[meter] #460 V=242.63 V  I=7.103 A  P=1705.3 W  PF=0.992  f=50.00 Hz  E=79.491 Wh  heap=18312
+[meter] #465 V=242.81 V  I=7.083 A  P=1726.2 W  PF=1.000  f=50.00 Hz  E=81.882 Wh  heap=18312
+[meter] #470 V=243.24 V  I=7.083 A  P=1734.0 W  PF=1.000  f=50.00 Hz  E=84.273 Wh  heap=18312
+[meter] #475 V=242.78 V  I=7.063 A  P=1703.0 W  PF=0.993  f=50.00 Hz  E=86.661 Wh  heap=18312
+[meter] #480 V=242.95 V  I=7.063 A  P=1732.9 W  PF=1.000  f=50.00 Hz  E=89.046 Wh  heap=18312
+[meter] #485 V=245.97 V  I=1.009 A  P=247.3 W  PF=0.977  f=50.00 Hz  E=90.438 Wh  heap=18312
+[meter] #490 V=246.01 V  I=1.009 A  P=247.1 W  PF=0.995  f=50.00 Hz  E=90.782 Wh  heap=18312
+[meter] #495 V=246.01 V  I=0.989 A  P=248.7 W  PF=1.000  f=50.00 Hz  E=91.124 Wh  heap=18312
+[meter] #500 V=245.83 V  I=1.009 A  P=244.6 W  PF=1.000  f=50.00 Hz  E=91.465 Wh  heap=18312
+[meter] #505 V=245.97 V  I=1.009 A  P=244.7 W  PF=0.985  f=50.00 Hz  E=91.806 Wh  heap=18312
+[meter] #510 V=246.01 V  I=0.989 A  P=242.9 W  PF=0.998  f=50.02 Hz  E=92.145 Wh  heap=18312
+[meter] #515 V=246.08 V  I=0.989 A  P=243.3 W  PF=0.999  f=50.02 Hz  E=92.482 Wh  heap=18312
+[meter] #520 V=246.01 V  I=0.989 A  P=242.0 W  PF=0.994  f=50.04 Hz  E=92.819 Wh  heap=18312
+[meter] #525 V=242.81 V  I=7.024 A  P=1725.0 W  PF=1.000  f=50.04 Hz  E=94.328 Wh  heap=18312
+[meter] #530 V=242.17 V  I=7.004 A  P=1699.8 W  PF=1.000  f=50.04 Hz  E=96.692 Wh  heap=18312
+[meter] #535 V=242.21 V  I=7.004 A  P=1686.6 W  PF=0.994  f=50.04 Hz  E=99.052 Wh  heap=18312
+[meter] #540 V=242.60 V  I=7.004 A  P=1706.9 W  PF=1.000  f=50.04 Hz  E=101.414 Wh  heap=18312
+[meter] #545 V=242.56 V  I=7.024 A  P=1706.4 W  PF=1.000  f=50.04 Hz  E=103.777 Wh  heap=18312
+[meter] #550 V=242.67 V  I=7.024 A  P=1691.3 W  PF=0.995  f=50.04 Hz  E=106.140 Wh  heap=18312
+[meter] #555 V=242.78 V  I=7.024 A  P=1718.1 W  PF=1.000  f=50.04 Hz  E=108.504 Wh  heap=18312
+[meter] #560 V=242.67 V  I=7.004 A  P=1703.0 W  PF=1.000  f=50.04 Hz  E=110.866 Wh  heap=18312
+[meter] #565 V=242.85 V  I=6.489 A  P=1565.7 W  PF=0.993  f=50.06 Hz  E=113.138 Wh  heap=18312
+[meter] #570 V=242.78 V  I=6.489 A  P=1564.2 W  PF=0.992  f=50.06 Hz  E=115.330 Wh  heap=18312
+[meter] #575 V=242.95 V  I=6.489 A  P=1566.3 W  PF=0.993  f=50.06 Hz  E=117.521 Wh  heap=18312
+[meter] #580 V=243.06 V  I=6.509 A  P=1583.1 W  PF=1.000  f=50.06 Hz  E=119.714 Wh  heap=18312
+[meter] #585 V=243.13 V  I=6.509 A  P=1593.7 W  PF=1.000  f=50.06 Hz  E=121.907 Wh  heap=18312
+[meter] #590 V=243.20 V  I=6.489 A  P=1582.2 W  PF=0.999  f=50.06 Hz  E=124.102 Wh  heap=18312
+[meter] #595 V=243.17 V  I=6.489 A  P=1564.7 W  PF=0.991  f=50.04 Hz  E=126.295 Wh  heap=18312
+[meter] #600 V=243.27 V  I=6.509 A  P=1591.6 W  PF=1.000  f=50.04 Hz  E=128.488 Wh  heap=18312
+[meter] #605 V=242.81 V  I=7.380 A  P=1797.2 W  PF=1.000  f=50.04 Hz  E=130.861 Wh  heap=18312
+[meter] #610 V=242.53 V  I=7.360 A  P=1776.1 W  PF=0.992  f=50.06 Hz  E=133.350 Wh  heap=18312
+[meter] #615 V=242.74 V  I=7.380 A  P=1787.6 W  PF=0.997  f=50.04 Hz  E=135.834 Wh  heap=18312
+[meter] #620 V=242.74 V  I=7.380 A  P=1806.0 W  PF=1.000  f=50.04 Hz  E=138.319 Wh  heap=18312
+[meter] #625 V=242.60 V  I=7.360 A  P=1796.1 W  PF=1.000  f=50.04 Hz  E=140.803 Wh  heap=18312
+[meter] #630 V=242.35 V  I=7.360 A  P=1768.4 W  PF=0.993  f=50.04 Hz  E=143.284 Wh  heap=12992
+[ERROR] [638006] [ST67W6XTask] (w61_at_sys.c:340) sem_if_ready not received
+[ERROR] [638006] [ST67W6XTask] (w61_at_common.c:380) sem_if_ready not received
+[ERROR] [638006] [ST67W6XTask] (w61_at_sys.c:312) Could not init Modem handler
+[ERROR] [638006] [ST67W6XTask] (main_app.c:411) [ERROR] in W6X_Init API
+[ERROR] [638006] [ST67W6XTask] (w6x_sys.c:136) W61 Init failed
+[ERROR] [638007] [ST67W6XTask] (main_app.c:225) ST67W611M1 not responding: check wiring (SPI, RDY, EN, 3V3) and module firmware
+Retrying the Wi-Fi module in 300 s (metering continues). Press RESET then 't' to test it.
+[meter] #635 V=242.49 V  I=7.360 A  P=1780.5 W  PF=0.997  f=50.04 Hz  E=145.765 Wh  heap=18072
+[meter] #640 V=242.60 V  I=7.360 A  P=1804.4 W  PF=1.000  f=50.04 Hz  E=148.246 Wh  heap=18072
+[meter] #645 V=242.56 V  I=6.470 A  P=1576.4 W  PF=1.000  f=50.04 Hz  E=150.649 Wh  heap=18072
+[meter] #650 V=242.39 V  I=6.450 A  P=1553.4 W  PF=0.993  f=50.04 Hz  E=152.828 Wh  heap=18072
+[meter] #655 V=242.74 V  I=6.470 A  P=1574.4 W  PF=1.000  f=50.04 Hz  E=155.005 Wh  heap=18072
+[meter] #660 V=242.67 V  I=6.470 A  P=1584.2 W  PF=1.000  f=50.04 Hz  E=157.184 Wh  heap=18072
+[meter] #665 V=242.71 V  I=6.470 A  P=1557.9 W  PF=0.992  f=50.04 Hz  E=159.363 Wh  heap=18072
+[meter] #670 V=242.95 V  I=6.470 A  P=1579.8 W  PF=1.000  f=50.04 Hz  E=161.544 Wh  heap=18072
+[meter] #675 V=242.95 V  I=6.470 A  P=1576.3 W  PF=1.000  f=50.04 Hz  E=163.727 Wh  heap=18072
+[meter] #680 V=242.71 V  I=6.450 A  P=1560.1 W  PF=0.996  f=50.04 Hz  E=165.911 Wh  heap=18072
+[meter] #685 V=246.25 V  I=0.415 A  P=102.6 W  PF=0.957  f=50.04 Hz  E=167.055 Wh  heap=18072
+[meter] #690 V=245.90 V  I=0.415 A  P=100.4 W  PF=0.983  f=50.04 Hz  E=167.196 Wh  heap=18072
+[meter] #695 V=245.83 V  I=0.415 A  P=99.8 W  PF=0.977  f=50.04 Hz  E=167.337 Wh  heap=18072
+[meter] #700 V=246.11 V  I=0.415 A  P=102.1 W  PF=0.953  f=50.04 Hz  E=167.478 Wh  heap=18072
+[meter] #705 V=246.25 V  I=0.435 A  P=103.5 W  PF=0.965  f=50.04 Hz  E=167.619 Wh  heap=18072
+[meter] #710 V=245.97 V  I=0.435 A  P=102.3 W  PF=0.955  f=50.04 Hz  E=167.759 Wh  heap=18072
+[meter] #715 V=246.15 V  I=0.435 A  P=101.1 W  PF=0.988  f=50.02 Hz  E=167.900 Wh  heap=18072
+[meter] #720 V=245.90 V  I=0.435 A  P=103.8 W  PF=1.000  f=50.02 Hz  E=168.040 Wh  heap=18072
+[meter] #725 V=245.47 V  I=0.929 A  P=228.7 W  PF=1.000  f=50.02 Hz  E=168.262 Wh  heap=18072
+[meter] #730 V=245.44 V  I=0.929 A  P=227.3 W  PF=0.996  f=50.02 Hz  E=168.578 Wh  heap=18072
+[meter] #735 V=245.62 V  I=0.929 A  P=228.7 W  PF=1.000  f=50.02 Hz  E=168.895 Wh  heap=18072
+[meter] #740 V=245.54 V  I=0.929 A  P=226.4 W  PF=0.991  f=50.02 Hz  E=169.211 Wh  heap=18072
+[meter] #745 V=245.58 V  I=0.929 A  P=229.2 W  PF=1.000  f=50.00 Hz  E=169.527 Wh  heap=18072
+[meter] #750 V=245.40 V  I=0.929 A  P=226.0 W  PF=0.990  f=49.98 Hz  E=169.843 Wh  heap=18072
+[meter] #755 V=245.12 V  I=0.929 A  P=221.6 W  PF=0.972  f=49.98 Hz  E=170.158 Wh  heap=18072
+[meter] #760 V=245.26 V  I=0.929 A  P=226.6 W  PF=0.993  f=49.98 Hz  E=170.473 Wh  heap=18072
+[meter] #765 V=245.83 V  I=0.415 A  P=97.4 W  PF=0.954  f=50.00 Hz  E=170.704 Wh  heap=18072
+[meter] #770 V=246.01 V  I=0.435 A  P=96.8 W  PF=0.947  f=50.00 Hz  E=170.843 Wh  heap=18072
+[meter] #775 V=246.04 V  I=0.435 A  P=99.9 W  PF=0.977  f=50.00 Hz  E=170.981 Wh  heap=18072
+[meter] #780 V=245.97 V  I=0.415 A  P=98.2 W  PF=0.961  f=50.02 Hz  E=171.120 Wh  heap=18072
+[meter] #785 V=245.76 V  I=0.415 A  P=100.5 W  PF=0.984  f=50.00 Hz  E=171.258 Wh  heap=18072
+[meter] #790 V=245.83 V  I=0.415 A  P=100.1 W  PF=0.935  f=50.00 Hz  E=171.396 Wh  heap=18072
+[meter] #795 V=245.58 V  I=0.435 A  P=97.1 W  PF=0.952  f=50.00 Hz  E=171.534 Wh  heap=18072
+[meter] #800 V=245.44 V  I=0.415 A  P=96.7 W  PF=0.949  f=50.00 Hz  E=171.672 Wh  heap=18072
+[meter] #805 V=245.65 V  I=0.435 A  P=99.8 W  PF=0.977  f=50.00 Hz  E=171.810 Wh  heap=18072
+[meter] #810 V=246.08 V  I=0.098 A  P=2.0 W  PF=0.084  f=49.98 Hz  E=171.828 Wh  heap=18072
+[meter] #815 V=245.97 V  I=0.098 A  P=-0.4 W  PF=-0.017  f=49.98 Hz  E=171.829 Wh  heap=18072
+[meter] #820 V=246.04 V  I=0.118 A  P=3.8 W  PF=0.156  f=49.96 Hz  E=171.830 Wh  heap=18072
+[meter] #825 V=246.22 V  I=0.098 A  P=0.6 W  PF=0.027  f=49.96 Hz  E=171.830 Wh  heap=18072
+[meter] #830 V=246.22 V  I=0.098 A  P=1.1 W  PF=0.047  f=49.96 Hz  E=171.831 Wh  heap=18072
+[meter] #835 V=245.76 V  I=0.098 A  P=1.9 W  PF=0.081  f=49.96 Hz  E=171.832 Wh  heap=18072
+[meter] #840 V=245.54 V  I=0.098 A  P=0.2 W  PF=0.008  f=49.96 Hz  E=171.833 Wh  heap=18072
+[meter] #845 V=245.44 V  I=0.098 A  P=0.4 W  PF=0.018  f=49.96 Hz  E=171.834 Wh  heap=18072
+[meter] #850 V=245.26 V  I=0.098 A  P=-0.6 W  PF=-0.026  f=49.96 Hz  E=171.834 Wh  heap=18072
+[meter] #855 V=245.30 V  I=0.098 A  P=-0.0 W  PF=-0.003  f=49.96 Hz  E=171.835 Wh  heap=18072
+[meter] #860 V=245.37 V  I=0.098 A  P=-0.2 W  PF=-0.011  f=49.94 Hz  E=171.836 Wh  heap=18072
+[meter] #865 V=242.35 V  I=6.054 A  P=1467.3 W  PF=1.000  f=49.94 Hz  E=173.210 Wh  heap=18072
+[meter] #870 V=242.46 V  I=6.034 A  P=1479.3 W  PF=1.000  f=49.96 Hz  E=175.243 Wh  heap=18072
+[meter] #875 V=242.39 V  I=6.034 A  P=1469.0 W  PF=1.000  f=49.96 Hz  E=177.278 Wh  heap=18072
+[meter] #880 V=242.46 V  I=6.034 A  P=1454.5 W  PF=0.990  f=49.96 Hz  E=179.314 Wh  heap=18072
+[meter] #885 V=242.81 V  I=6.034 A  P=1457.3 W  PF=0.994  f=49.96 Hz  E=181.353 Wh  heap=18072
+[meter] #890 V=243.02 V  I=6.054 A  P=1464.7 W  PF=0.995  f=49.96 Hz  E=183.397 Wh  heap=18072
+[meter] #895 V=242.99 V  I=6.034 A  P=1475.8 W  PF=1.000  f=49.94 Hz  E=185.440 Wh  heap=18072
+[meter] #900 V=242.78 V  I=6.034 A  P=1481.8 W  PF=1.000  f=49.94 Hz  E=187.481 Wh  heap=18072
+[meter] #905 V=242.21 V  I=7.123 A  P=1718.9 W  PF=0.998  f=49.94 Hz  E=189.874 Wh  heap=18072
+[meter] #910 V=242.32 V  I=6.667 A  P=1601.7 W  PF=0.994  f=49.96 Hz  E=192.151 Wh  heap=18072
+[meter] #915 V=245.79 V  I=6.667 A  P=1627.0 W  PF=0.992  f=49.96 Hz  E=194.415 Wh  heap=18072
+[meter] #920 V=245.76 V  I=6.648 A  P=1634.9 W  PF=1.000  f=49.96 Hz  E=196.687 Wh  heap=18072
+[meter] #925 V=245.79 V  I=6.628 A  P=1645.1 W  PF=1.000  f=49.96 Hz  E=198.952 Wh  heap=18072
+[meter] #930 V=245.72 V  I=6.608 A  P=1629.9 W  PF=1.000  f=49.96 Hz  E=201.213 Wh  heap=18072
+[ERROR] [942007] [ST67W6XTask] (w61_at_sys.c:340) sem_if_ready not received
+[ERROR] [942007] [ST67W6XTask] (w61_at_common.c:380) sem_if_ready not received
+[ERROR] [942007] [ST67W6XTask] (w61_at_sys.c:312) Could not init Modem handler
+[ERROR] [942007] [ST67W6XTask] (main_app.c:411) [ERROR] in W6X_Init API
+[ERROR] [942007] [ST67W6XTask] (w6x_sys.c:136) W61 Init failed
+[ERROR] [942008] [ST67W6XTask] (main_app.c:225) ST67W611M1 not responding: check wiring (SPI, RDY, EN, 3V3) and module firmware
+Retrying the Wi-Fi module in 300 s (metering continues). Press RESET then 't' to test it.
+[meter] #935 V=245.58 V  I=6.608 A  P=1609.0 W  PF=0.991  f=49.96 Hz  E=203.469 Wh  heap=17832
+[meter] #940 V=245.65 V  I=6.608 A  P=1624.9 W  PF=1.000  f=49.94 Hz  E=205.718 Wh  heap=17832
+[meter] #945 V=245.47 V  I=7.103 A  P=1761.0 W  PF=1.000  f=49.94 Hz  E=208.012 Wh  heap=17832
+[meter] #950 V=245.33 V  I=7.083 A  P=1729.3 W  PF=0.992  f=49.94 Hz  E=210.433 Wh  heap=17832
+[meter] #955 V=245.33 V  I=7.083 A  P=1738.3 W  PF=0.997  f=49.94 Hz  E=212.850 Wh  heap=17832
+[meter] #960 V=245.54 V  I=7.103 A  P=1761.4 W  PF=1.000  f=49.94 Hz  E=215.266 Wh  heap=17832
+[meter] #965 V=245.19 V  I=7.063 A  P=1727.6 W  PF=0.994  f=49.94 Hz  E=217.682 Wh  heap=17832
+[meter] #970 V=245.26 V  I=7.083 A  P=1748.0 W  PF=1.000  f=49.92 Hz  E=220.093 Wh  heap=17832
+[meter] #975 V=245.01 V  I=7.083 A  P=1733.6 W  PF=0.998  f=49.92 Hz  E=222.502 Wh  heap=17832
+[meter] #980 V=244.87 V  I=7.063 A  P=1737.4 W  PF=1.000  f=49.92 Hz  E=224.909 Wh  heap=17832
+[meter] #985 V=244.48 V  I=7.954 A  P=1943.3 W  PF=0.999  f=49.92 Hz  E=227.447 Wh  heap=17832
+[meter] #990 V=244.87 V  I=7.954 A  P=1955.5 W  PF=1.000  f=49.92 Hz  E=230.151 Wh  heap=17832
+[meter] #995 V=244.52 V  I=7.934 A  P=1931.2 W  PF=0.992  f=49.92 Hz  E=232.855 Wh  heap=17832
+[meter] #1000 V=244.41 V  I=7.954 A  P=1950.8 W  PF=1.000  f=49.92 Hz  E=235.554 Wh  heap=17832
+[meter] #1005 V=244.52 V  I=7.934 A  P=1949.7 W  PF=1.000  f=49.92 Hz  E=238.251 Wh  heap=17832
+[meter] #1010 V=244.66 V  I=7.934 A  P=1934.9 W  PF=0.996  f=49.92 Hz  E=240.950 Wh  heap=17832
+[meter] #1015 V=244.55 V  I=7.954 A  P=1955.4 W  PF=1.000  f=49.92 Hz  E=243.649 Wh  heap=17832
+[meter] #1020 V=244.37 V  I=7.914 A  P=1922.0 W  PF=0.993  f=49.94 Hz  E=246.344 Wh  heap=17832
+[meter] #1025 V=244.55 V  I=7.498 A  P=1848.1 W  PF=1.000  f=49.94 Hz  E=249.001 Wh  heap=17832
+[meter] #1030 V=244.66 V  I=7.518 A  P=1842.0 W  PF=1.000  f=49.94 Hz  E=251.553 Wh  heap=17832
+[meter] #1035 V=244.59 V  I=7.498 A  P=1822.7 W  PF=0.993  f=49.94 Hz  E=254.106 Wh  heap=17832
+[meter] #1040 V=244.62 V  I=7.498 A  P=1848.4 W  PF=1.000  f=49.94 Hz  E=256.656 Wh  heap=17832
+[meter] #1045 V=244.80 V  I=7.518 A  P=1829.2 W  PF=0.993  f=49.94 Hz  E=259.208 Wh  heap=17832
+[meter] #1050 V=244.87 V  I=7.518 A  P=1852.3 W  PF=1.000  f=49.94 Hz  E=261.762 Wh  heap=17832
+[meter] #1055 V=244.62 V  I=7.518 A  P=1834.0 W  PF=0.999  f=49.94 Hz  E=264.315 Wh  heap=17832
+[meter] #1060 V=244.44 V  I=7.498 A  P=1832.2 W  PF=0.999  f=49.94 Hz  E=266.866 Wh  heap=17832
+[meter] #1065 V=244.62 V  I=6.984 A  P=1717.0 W  PF=1.000  f=49.92 Hz  E=269.360 Wh  heap=17832
+[meter] #1070 V=244.73 V  I=6.984 A  P=1712.4 W  PF=1.000  f=49.92 Hz  E=271.738 Wh  heap=17832
+[meter] #1075 V=244.37 V  I=6.984 A  P=1706.0 W  PF=0.996  f=49.92 Hz  E=274.113 Wh  heap=17832
+[meter] #1080 V=244.80 V  I=7.004 A  P=1728.8 W  PF=1.000  f=49.92 Hz  E=276.490 Wh  heap=17832
+[meter] #1085 V=244.69 V  I=6.984 A  P=1699.1 W  PF=0.994  f=49.92 Hz  E=278.869 Wh  heap=17832
+[meter] #1090 V=244.76 V  I=6.984 A  P=1710.9 W  PF=0.997  f=49.90 Hz  E=281.249 Wh  heap=17832
+[meter] #1095 V=244.66 V  I=6.984 A  P=1729.9 W  PF=1.000  f=49.90 Hz  E=283.628 Wh  heap=17832
+[meter] #1100 V=244.62 V  I=6.984 A  P=1718.2 W  PF=1.000  f=49.90 Hz  E=286.002 Wh  heap=17832
+[meter] #1105 V=247.28 V  I=0.910 A  P=226.1 W  PF=1.000  f=49.90 Hz  E=287.772 Wh  heap=17832
+[meter] #1110 V=247.18 V  I=0.910 A  P=226.0 W  PF=1.000  f=49.90 Hz  E=288.085 Wh  heap=17832
+[meter] #1115 V=247.25 V  I=0.910 A  P=227.1 W  PF=1.000  f=49.90 Hz  E=288.398 Wh  heap=17832
+[meter] #1120 V=247.46 V  I=0.910 A  P=227.2 W  PF=1.000  f=49.92 Hz  E=288.710 Wh  heap=17832
+[meter] #1125 V=247.39 V  I=0.910 A  P=223.9 W  PF=0.994  f=49.92 Hz  E=289.024 Wh  heap=17832
+[meter] #1130 V=247.57 V  I=0.890 A  P=227.9 W  PF=1.000  f=49.90 Hz  E=289.337 Wh  heap=17832
+[meter] #1135 V=247.14 V  I=0.910 A  P=222.9 W  PF=0.991  f=49.92 Hz  E=289.650 Wh  heap=17832
+[meter] #1140 V=247.53 V  I=0.910 A  P=227.7 W  PF=1.000  f=49.92 Hz  E=289.964 Wh  heap=17832
+[meter] #1145 V=247.03 V  I=1.424 A  P=350.4 W  PF=0.995  f=49.92 Hz  E=290.331 Wh  heap=17832
+[meter] #1150 V=247.00 V  I=1.444 A  P=355.3 W  PF=1.000  f=49.90 Hz  E=290.822 Wh  heap=17832
+[meter] #1155 V=247.03 V  I=1.424 A  P=355.9 W  PF=1.000  f=49.90 Hz  E=291.312 Wh  heap=17832
+[meter] #1160 V=247.00 V  I=1.404 A  P=350.0 W  PF=0.994  f=49.90 Hz  E=291.803 Wh  heap=17832
+[meter] #1165 V=246.82 V  I=1.424 A  P=351.9 W  PF=1.000  f=49.90 Hz  E=292.293 Wh  heap=17832
+[meter] #1170 V=247.14 V  I=1.444 A  P=357.8 W  PF=1.000  f=49.90 Hz  E=292.784 Wh  heap=17832
+[meter] #1175 V=247.07 V  I=1.424 A  P=354.6 W  PF=1.000  f=49.90 Hz  E=293.275 Wh  heap=17832
+[meter] #1180 V=246.86 V  I=1.444 A  P=350.5 W  PF=0.996  f=49.90 Hz  E=293.765 Wh  heap=17832
+[meter] #1185 V=244.09 V  I=7.538 A  P=1842.6 W  PF=1.000  f=49.90 Hz  E=294.626 Wh  heap=17832
+[meter] #1190 V=244.12 V  I=7.498 A  P=1841.7 W  PF=1.000  f=49.90 Hz  E=297.171 Wh  heap=17832
+[meter] #1195 V=244.02 V  I=7.498 A  P=1814.2 W  PF=0.991  f=49.90 Hz  E=299.714 Wh  heap=17832
+[meter] #1200 V=244.02 V  I=7.498 A  P=1828.4 W  PF=0.998  f=49.90 Hz  E=302.255 Wh  heap=17832
+[meter] #1205 V=244.59 V  I=7.498 A  P=1854.5 W  PF=1.000  f=49.90 Hz  E=304.803 Wh  heap=17832
+[meter] #1210 V=244.59 V  I=7.498 A  P=1843.1 W  PF=1.000  f=49.90 Hz  E=307.354 Wh  heap=17832
+[meter] #1215 V=244.30 V  I=7.498 A  P=1819.5 W  PF=0.993  f=49.90 Hz  E=309.904 Wh  heap=17832
+[meter] #1220 V=244.02 V  I=7.498 A  P=1817.5 W  PF=0.993  f=49.90 Hz  E=312.448 Wh  heap=17832
+[meter] #1225 V=242.99 V  I=10.447 A  P=2392.9 W  PF=0.944  f=49.90 Hz  E=315.319 Wh  heap=17832
+[meter] #1230 V=244.02 V  I=8.250 A  P=2026.8 W  PF=1.000  f=49.88 Hz  E=318.203 Wh  heap=17832
+[meter] #1235 V=243.98 V  I=8.132 A  P=2006.9 W  PF=1.000  f=49.88 Hz  E=320.974 Wh  heap=12512
+[ERROR] [1246008] [ST67W6XTask] (w61_at_sys.c:340) sem_if_ready not received
+[ERROR] [1246008] [ST67W6XTask] (w61_at_common.c:380) sem_if_ready not received
+[ERROR] [1246008] [ST67W6XTask] (w61_at_sys.c:312) Could not init Modem handler
+[ERROR] [1246008] [ST67W6XTask] (main_app.c:411) [ERROR] in W6X_Init API
+[ERROR] [1246008] [ST67W6XTask] (w6x_sys.c:136) W61 Init failed
+[ERROR] [1246009] [ST67W6XTask] (main_app.c:225) ST67W611M1 not responding: check wiring (SPI, RDY, EN, 3V3) and module firmware
+Retrying the Wi-Fi module in 300 s (metering continues). Press RESET then 't' to test it.
+[meter] #1240 V=243.95 V  I=8.112 A  P=1999.9 W  PF=1.000  f=49.88 Hz  E=323.727 Wh  heap=17584
+[meter] #1245 V=244.12 V  I=8.072 A  P=1992.7 W  PF=1.000  f=49.88 Hz  E=326.470 Wh  heap=17584
+[meter] #1250 V=243.77 V  I=8.072 A  P=1980.3 W  PF=1.000  f=49.88 Hz  E=329.205 Wh  heap=17584
+[meter] #1255 V=243.59 V  I=8.052 A  P=1966.0 W  PF=1.000  f=49.88 Hz  E=331.932 Wh  heap=17584
+[meter] #1260 V=243.34 V  I=8.013 A  P=1937.6 W  PF=0.993  f=49.90 Hz  E=334.650 Wh  heap=17584
+[meter] #1265 V=243.56 V  I=7.518 A  P=1829.2 W  PF=0.998  f=49.90 Hz  E=337.322 Wh  heap=17584
+[meter] #1270 V=243.88 V  I=7.498 A  P=1849.5 W  PF=1.000  f=49.88 Hz  E=339.864 Wh  heap=17584
+[meter] #1275 V=244.12 V  I=7.498 A  P=1850.0 W  PF=1.000  f=49.88 Hz  E=342.407 Wh  heap=17584
+[meter] #1280 V=244.16 V  I=7.498 A  P=1831.9 W  PF=1.000  f=49.88 Hz  E=344.952 Wh  heap=17584
+[meter] #1285 V=243.84 V  I=7.479 A  P=1811.1 W  PF=0.993  f=49.88 Hz  E=347.492 Wh  heap=17584
+[meter] #1290 V=243.70 V  I=7.479 A  P=1826.3 W  PF=1.000  f=49.88 Hz  E=350.027 Wh  heap=17584
+[meter] #1295 V=243.73 V  I=7.479 A  P=1838.0 W  PF=1.000  f=49.88 Hz  E=352.557 Wh  heap=17584
+[meter] #1300 V=243.84 V  I=7.459 A  P=1827.3 W  PF=1.000  f=49.88 Hz  E=355.086 Wh  heap=17584
+[meter] #1305 V=246.29 V  I=1.404 A  P=342.9 W  PF=0.991  f=49.90 Hz  E=357.100 Wh  heap=17584
+[meter] #1310 V=246.36 V  I=1.404 A  P=342.8 W  PF=1.000  f=49.90 Hz  E=357.578 Wh  heap=17584
+[meter] #1315 V=246.61 V  I=1.404 A  P=345.2 W  PF=1.000  f=49.90 Hz  E=358.054 Wh  heap=17584
+[meter] #1320 V=246.40 V  I=1.385 A  P=339.0 W  PF=0.993  f=49.90 Hz  E=358.528 Wh  heap=17584
+[meter] #1325 V=246.47 V  I=1.385 A  P=341.0 W  PF=0.998  f=49.90 Hz  E=359.001 Wh  heap=17584
+[meter] #1330 V=246.43 V  I=1.365 A  P=340.0 W  PF=0.996  f=49.90 Hz  E=359.473 Wh  heap=17584
+[meter] #1335 V=246.11 V  I=1.365 A  P=335.9 W  PF=0.985  f=49.88 Hz  E=359.944 Wh  heap=17584
+[meter] #1340 V=245.93 V  I=1.365 A  P=334.4 W  PF=0.981  f=49.88 Hz  E=360.412 Wh  heap=17584
+[meter] #1345 V=246.72 V  I=0.494 A  P=115.9 W  PF=0.913  f=49.88 Hz  E=360.855 Wh  heap=17584
+[meter] #1350 V=246.96 V  I=0.474 A  P=114.5 W  PF=0.976  f=49.88 Hz  E=361.013 Wh  heap=17584
+[meter] #1355 V=246.93 V  I=0.474 A  P=115.8 W  PF=0.987  f=49.88 Hz  E=361.169 Wh  heap=17584
+[meter] #1360 V=246.82 V  I=0.455 A  P=110.4 W  PF=0.983  f=49.88 Hz  E=361.324 Wh  heap=17584
+[meter] #1365 V=246.72 V  I=0.474 A  P=112.2 W  PF=1.000  f=49.88 Hz  E=361.478 Wh  heap=17584
+[meter] #1370 V=246.68 V  I=0.474 A  P=108.5 W  PF=0.966  f=49.88 Hz  E=361.631 Wh  heap=17584
+[meter] #1375 V=246.47 V  I=0.474 A  P=109.9 W  PF=0.938  f=49.88 Hz  E=361.783 Wh  heap=17584
+[meter] #1380 V=246.32 V  I=0.455 A  P=111.9 W  PF=0.998  f=49.88 Hz  E=361.935 Wh  heap=17584
+[meter] #1385 V=246.40 V  I=1.345 A  P=334.9 W  PF=1.000  f=49.88 Hz  E=362.174 Wh  heap=17584
+[meter] #1390 V=246.57 V  I=1.345 A  P=335.5 W  PF=1.000  f=49.88 Hz  E=362.635 Wh  heap=17584
+[meter] #1395 V=246.54 V  I=1.345 A  P=333.8 W  PF=1.000  f=49.88 Hz  E=363.096 Wh  heap=17584
+[meter] #1400 V=246.64 V  I=1.345 A  P=328.9 W  PF=0.991  f=49.88 Hz  E=363.557 Wh  heap=17584
+[meter] #1405 V=246.50 V  I=1.345 A  P=329.8 W  PF=0.994  f=49.88 Hz  E=364.016 Wh  heap=17584
+[meter] #1410 V=246.25 V  I=1.345 A  P=333.2 W  PF=1.000  f=49.88 Hz  E=364.474 Wh  heap=17584
+[meter] #1415 V=246.32 V  I=1.345 A  P=331.9 W  PF=1.000  f=49.88 Hz  E=364.932 Wh  heap=17584
+[meter] #1420 V=246.25 V  I=1.345 A  P=331.1 W  PF=0.999  f=49.88 Hz  E=365.389 Wh  heap=17584
+[meter] #1425 V=246.43 V  I=1.325 A  P=285.6 W  PF=0.887  f=49.88 Hz  E=365.846 Wh  heap=17584
+[meter] #1430 V=246.72 V  I=0.910 A  P=223.9 W  PF=0.997  f=49.88 Hz  E=366.158 Wh  heap=17584
+[meter] #1435 V=246.75 V  I=0.910 A  P=223.9 W  PF=0.997  f=49.86 Hz  E=366.471 Wh  heap=17584
+[meter] #1440 V=246.50 V  I=0.910 A  P=222.9 W  PF=0.994  f=49.86 Hz  E=366.783 Wh  heap=17584
+[meter] #1445 V=246.64 V  I=0.910 A  P=222.8 W  PF=0.992  f=49.86 Hz  E=367.094 Wh  heap=17584
+[meter] #1450 V=246.40 V  I=0.910 A  P=224.0 W  PF=1.000  f=49.86 Hz  E=367.406 Wh  heap=17584
+[meter] #1455 V=246.43 V  I=0.910 A  P=226.2 W  PF=1.000  f=49.86 Hz  E=367.717 Wh  heap=17584
+[meter] #1460 V=246.36 V  I=0.910 A  P=225.8 W  PF=1.000  f=49.84 Hz  E=368.029 Wh  heap=17584
+[meter] #1465 V=246.79 V  I=0.158 A  P=0.9 W  PF=0.022  f=49.84 Hz  E=368.321 Wh  heap=17584
+[meter] #1470 V=246.96 V  I=0.098 A  P=0.2 W  PF=0.009  f=49.84 Hz  E=368.322 Wh  heap=17584
+[meter] #1475 V=247.21 V  I=0.098 A  P=-0.3 W  PF=-0.013  f=49.84 Hz  E=368.322 Wh  heap=17584
+[meter] #1480 V=247.07 V  I=0.098 A  P=1.5 W  PF=0.062  f=49.84 Hz  E=368.323 Wh  heap=17584
+[meter] #1485 V=246.96 V  I=0.098 A  P=0.5 W  PF=0.022  f=49.84 Hz  E=368.324 Wh  heap=17584
+[meter] #1490 V=246.68 V  I=0.098 A  P=-0.6 W  PF=-0.022  f=49.84 Hz  E=368.325 Wh  heap=17584
+[meter] #1495 V=246.29 V  I=0.098 A  P=0.7 W  PF=0.029  f=49.84 Hz  E=368.326 Wh  heap=17584
+[meter] #1500 V=246.11 V  I=0.098 A  P=-0.2 W  PF=-0.008  f=49.84 Hz  E=368.326 Wh  heap=17584
+[meter] #1505 V=246.43 V  I=0.098 A  P=2.5 W  PF=0.103  f=49.84 Hz  E=368.327 Wh  heap=17584
+[meter] #1510 V=246.47 V  I=0.098 A  P=0.4 W  PF=0.020  f=49.84 Hz  E=368.328 Wh  heap=17584
+[meter] #1515 V=246.79 V  I=0.118 A  P=0.1 W  PF=0.005  f=49.84 Hz  E=368.329 Wh  heap=17584
+[meter] #1520 V=246.96 V  I=0.098 A  P=2.3 W  PF=0.080  f=49.84 Hz  E=368.330 Wh  heap=17584
+[meter] #1525 V=246.82 V  I=0.098 A  P=1.8 W  PF=0.061  f=49.84 Hz  E=368.331 Wh  heap=17584
+[meter] #1530 V=246.54 V  I=0.098 A  P=1.0 W  PF=0.043  f=49.84 Hz  E=368.332 Wh  heap=17584
+[meter] #1535 V=246.61 V  I=0.098 A  P=1.3 W  PF=0.054  f=49.84 Hz  E=368.332 Wh  heap=17584
+[meter] #1540 V=246.61 V  I=0.771 A  P=181.1 W  PF=0.951  f=49.84 Hz  E=368.855 Wh  heap=12264
+[ERROR] [1550009] [ST67W6XTask] (w61_at_sys.c:340) sem_if_ready not received
+[ERROR] [1550009] [ST67W6XTask] (w61_at_common.c:380) sem_if_ready not received
+[ERROR] [1550009] [ST67W6XTask] (w61_at_sys.c:312) Could not init Modem handler
+[ERROR] [1550009] [ST67W6XTask] (main_app.c:411) [ERROR] in W6X_Init API
+[ERROR] [1550009] [ST67W6XTask] (w6x_sys.c:136) W61 Init failed
+[ERROR] [1550010] [ST67W6XTask] (main_app.c:225) ST67W611M1 not responding: check wiring (SPI, RDY, EN, 3V3) and module firmware
+Retrying the Wi-Fi module in 300 s (metering continues). Press RESET then 't' to test it.
+[meter] #1545 V=246.82 V  I=0.633 A  P=145.8 W  PF=0.933  f=49.84 Hz  E=369.079 Wh  heap=17336
+[meter] #1550 V=247.14 V  I=0.593 A  P=140.3 W  PF=0.956  f=49.84 Hz  E=369.278 Wh  heap=17336
+[meter] #1555 V=247.14 V  I=0.554 A  P=135.5 W  PF=0.989  f=49.84 Hz  E=369.466 Wh  heap=17336
+[meter] #1560 V=246.93 V  I=0.554 A  P=129.3 W  PF=0.980  f=49.86 Hz  E=369.648 Wh  heap=17336
+[meter] #1565 V=247.32 V  I=0.534 A  P=126.8 W  PF=0.960  f=49.86 Hz  E=369.827 Wh  heap=17336
+[meter] #1570 V=247.35 V  I=0.514 A  P=127.2 W  PF=0.962  f=49.86 Hz  E=370.002 Wh  heap=17336
+[meter] #1575 V=247.28 V  I=0.534 A  P=122.5 W  PF=0.927  f=49.86 Hz  E=370.174 Wh  heap=17336
+[meter] #1580 V=244.02 V  I=6.569 A  P=1616.3 W  PF=1.000  f=49.86 Hz  E=371.600 Wh  heap=17336
+[meter] #1585 V=244.16 V  I=6.569 A  P=1619.2 W  PF=1.000  f=49.86 Hz  E=373.829 Wh  heap=17336
+[meter] #1590 V=244.23 V  I=6.569 A  P=1618.3 W  PF=1.000  f=49.86 Hz  E=376.059 Wh  heap=17336
+[meter] #1595 V=244.27 V  I=6.569 A  P=1613.2 W  PF=1.000  f=49.86 Hz  E=378.287 Wh  heap=17336
+[meter] #1600 V=244.05 V  I=6.549 A  P=1598.4 W  PF=0.999  f=49.86 Hz  E=380.510 Wh  heap=17336
+[meter] #1605 V=243.91 V  I=6.549 A  P=1586.5 W  PF=0.993  f=49.86 Hz  E=382.730 Wh  heap=17336
+[meter] #1610 V=243.81 V  I=6.529 A  P=1583.7 W  PF=0.994  f=49.86 Hz  E=384.946 Wh  heap=17336
+[meter] #1615 V=243.98 V  I=6.529 A  P=1598.0 W  PF=1.000  f=49.84 Hz  E=387.160 Wh  heap=17336
+[meter] #1620 V=243.88 V  I=6.074 A  P=1494.1 W  PF=1.000  f=49.84 Hz  E=389.311 Wh  heap=17336
+[meter] #1625 V=243.56 V  I=6.074 A  P=1479.3 W  PF=1.000  f=49.84 Hz  E=391.365 Wh  heap=17336
+[meter] #1630 V=243.56 V  I=6.054 A  P=1465.9 W  PF=0.993  f=49.84 Hz  E=393.418 Wh  heap=17336
+[meter] #1635 V=243.77 V  I=6.074 A  P=1468.8 W  PF=0.991  f=49.84 Hz  E=395.473 Wh  heap=17336
+[meter] #1640 V=243.81 V  I=6.074 A  P=1484.0 W  PF=1.000  f=49.84 Hz  E=397.529 Wh  heap=17336
+[meter] #1645 V=243.59 V  I=6.054 A  P=1492.8 W  PF=1.000  f=49.84 Hz  E=399.582 Wh  heap=17336
+[meter] #1650 V=243.20 V  I=6.054 A  P=1461.2 W  PF=0.992  f=49.82 Hz  E=401.632 Wh  heap=17336
+[meter] #1655 V=243.24 V  I=6.054 A  P=1483.5 W  PF=1.000  f=49.80 Hz  E=403.678 Wh  heap=17336
+[meter] #1660 V=243.13 V  I=6.944 A  P=1706.9 W  PF=1.000  f=49.80 Hz  E=405.877 Wh  heap=17336
+[meter] #1665 V=243.20 V  I=6.944 A  P=1687.8 W  PF=0.996  f=49.80 Hz  E=408.227 Wh  heap=17336
+[meter] #1670 V=242.99 V  I=6.944 A  P=1681.5 W  PF=0.993  f=49.80 Hz  E=410.576 Wh  heap=17336
+[meter] #1675 V=242.99 V  I=6.944 A  P=1706.8 W  PF=1.000  f=49.80 Hz  E=412.924 Wh  heap=17336
+[meter] #1680 V=243.20 V  I=6.944 A  P=1678.6 W  PF=0.991  f=49.82 Hz  E=415.272 Wh  heap=17336
+[meter] #1685 V=243.42 V  I=6.964 A  P=1710.3 W  PF=1.000  f=49.82 Hz  E=417.626 Wh  heap=17336
+[meter] #1690 V=243.38 V  I=6.944 A  P=1704.6 W  PF=1.000  f=49.78 Hz  E=419.978 Wh  heap=17336
+[meter] #1695 V=243.10 V  I=6.944 A  P=1690.4 W  PF=1.000  f=49.78 Hz  E=422.328 Wh  heap=17336
+[meter] #1700 V=243.02 V  I=7.459 A  P=1801.4 W  PF=0.993  f=49.78 Hz  E=424.744 Wh  heap=17336
+[meter] #1705 V=242.85 V  I=7.459 A  P=1797.2 W  PF=0.991  f=49.78 Hz  E=427.263 Wh  heap=17336
+[meter] #1710 V=243.27 V  I=7.479 A  P=1808.5 W  PF=0.993  f=49.78 Hz  E=429.784 Wh  heap=17336
+[meter] #1715 V=243.13 V  I=7.479 A  P=1813.4 W  PF=0.996  f=49.78 Hz  E=432.309 Wh  heap=17336
+[meter] #1720 V=243.34 V  I=7.459 A  P=1823.9 W  PF=1.000  f=49.78 Hz  E=434.834 Wh  heap=17336
+[meter] #1725 V=243.02 V  I=7.459 A  P=1825.4 W  PF=1.000  f=49.78 Hz  E=437.358 Wh  heap=17336
+[meter] #1730 V=243.10 V  I=7.459 A  P=1821.8 W  PF=1.000  f=49.76 Hz  E=439.881 Wh  heap=17336
+[meter] #1735 V=243.02 V  I=7.459 A  P=1815.7 W  PF=0.998  f=49.76 Hz  E=442.402 Wh  heap=17336
+[meter] #1740 V=246.29 V  I=1.404 A  P=349.4 W  PF=0.995  f=49.76 Hz  E=443.939 Wh  heap=17336
+[meter] #1745 V=246.11 V  I=1.424 A  P=350.9 W  PF=1.000  f=49.76 Hz  E=444.427 Wh  heap=17336
+[meter] #1750 V=246.32 V  I=1.404 A  P=347.0 W  PF=0.988  f=49.76 Hz  E=444.915 Wh  heap=17336
+[meter] #1755 V=246.54 V  I=1.424 A  P=350.5 W  PF=0.997  f=49.76 Hz  E=445.403 Wh  heap=17336
+[meter] #1760 V=246.25 V  I=1.424 A  P=350.1 W  PF=0.998  f=49.76 Hz  E=445.892 Wh  heap=17336
+[meter] #1765 V=246.08 V  I=1.404 A  P=347.0 W  PF=0.989  f=49.76 Hz  E=446.380 Wh  heap=17336
+[meter] #1770 V=245.97 V  I=1.424 A  P=348.0 W  PF=0.993  f=49.76 Hz  E=446.866 Wh  heap=17336
+[meter] #1775 V=246.01 V  I=1.404 A  P=348.7 W  PF=0.995  f=49.76 Hz  E=447.353 Wh  heap=17336
+[meter] #1780 V=245.47 V  I=2.611 A  P=630.8 W  PF=0.984  f=49.76 Hz  E=448.277 Wh  heap=17336
+[meter] #1785 V=245.97 V  I=2.117 A  P=528.8 W  PF=1.000  f=49.76 Hz  E=449.041 Wh  heap=17336
+[meter] #1790 V=246.01 V  I=2.037 A  P=507.5 W  PF=1.000  f=49.76 Hz  E=449.752 Wh  heap=17336
+[meter] #1795 V=245.93 V  I=2.018 A  P=495.7 W  PF=0.998  f=49.76 Hz  E=450.447 Wh  heap=17336
+[meter] #1800 V=246.04 V  I=1.998 A  P=492.2 W  PF=1.000  f=49.76 Hz  E=451.132 Wh  heap=17336
+[meter] #1805 V=245.86 V  I=1.978 A  P=485.2 W  PF=0.997  f=49.76 Hz  E=451.812 Wh  heap=17336
+[meter] #1810 V=245.90 V  I=1.958 A  P=485.9 W  PF=0.998  f=49.78 Hz  E=452.487 Wh  heap=17336
+[meter] #1815 V=245.83 V  I=1.958 A  P=485.6 W  PF=1.000  f=49.78 Hz  E=453.158 Wh  heap=17336
+[meter] #1820 V=246.57 V  I=1.048 A  P=261.1 W  PF=1.000  f=49.78 Hz  E=453.693 Wh  heap=17336
+[meter] #1825 V=246.75 V  I=1.048 A  P=259.6 W  PF=1.000  f=49.78 Hz  E=454.050 Wh  heap=17336
+[meter] #1830 V=246.61 V  I=1.048 A  P=255.8 W  PF=0.989  f=49.78 Hz  E=454.404 Wh  heap=17336
+[meter] #1835 V=246.57 V  I=1.028 A  P=251.9 W  PF=0.993  f=49.76 Hz  E=454.756 Wh  heap=17336
+[meter] #1840 V=246.82 V  I=1.009 A  P=248.9 W  PF=0.999  f=49.78 Hz  E=455.106 Wh  heap=17336
+[meter] #1845 V=246.79 V  I=1.009 A  P=247.0 W  PF=0.992  f=49.78 Hz  E=455.454 Wh  heap=12016
+[ERROR] [1854010] [ST67W6XTask] (w61_at_sys.c:340) sem_if_ready not received
+[ERROR] [1854010] [ST67W6XTask] (w61_at_common.c:380) sem_if_ready not received
+[ERROR] [1854010] [ST67W6XTask] (w61_at_sys.c:312) Could not init Modem handler
+[ERROR] [1854010] [ST67W6XTask] (main_app.c:411) [ERROR] in W6X_Init API
+[ERROR] [1854010] [ST67W6XTask] (w6x_sys.c:136) W61 Init failed
+[ERROR] [1854011] [ST67W6XTask] (main_app.c:225) ST67W611M1 not responding: check wiring (SPI, RDY, EN, 3V3) and module firmware
+Retrying the Wi-Fi module in 300 s (metering continues). Press RESET then 't' to test it.
+[meter] #1850 V=246.82 V  I=1.009 A  P=247.5 W  PF=0.993  f=49.78 Hz  E=455.800 Wh  heap=17096
+[meter] #1855 V=247.03 V  I=1.009 A  P=247.8 W  PF=0.994  f=49.80 Hz  E=456.144 Wh  heap=17096
+[meter] #1860 V=247.35 V  I=0.514 A  P=132.7 W  PF=1.000  f=49.80 Hz  E=456.418 Wh  heap=17096
+[meter] #1865 V=247.25 V  I=0.534 A  P=128.1 W  PF=0.969  f=49.80 Hz  E=456.596 Wh  heap=17096
+[meter] #1870 V=247.60 V  I=0.514 A  P=129.7 W  PF=0.980  f=49.82 Hz  E=456.775 Wh  heap=17096
+[meter] #1875 V=247.53 V  I=0.514 A  P=128.1 W  PF=1.000  f=49.82 Hz  E=456.953 Wh  heap=17096
+[meter] #1880 V=247.35 V  I=0.534 A  P=128.2 W  PF=0.970  f=49.82 Hz  E=457.132 Wh  heap=17096
+[meter] #1885 V=247.42 V  I=0.514 A  P=129.0 W  PF=1.000  f=49.82 Hz  E=457.311 Wh  heap=17096
+[meter] #1890 V=247.42 V  I=0.534 A  P=130.8 W  PF=0.989  f=49.82 Hz  E=457.490 Wh  heap=17096
+[meter] #1895 V=247.28 V  I=0.514 A  P=127.5 W  PF=1.000  f=49.84 Hz  E=457.668 Wh  heap=17096
+[meter] #1900 V=244.05 V  I=6.628 A  P=1630.3 W  PF=1.000  f=49.84 Hz  E=458.549 Wh  heap=17096
+[meter] #1905 V=243.91 V  I=6.588 A  P=1600.2 W  PF=0.995  f=49.84 Hz  E=460.785 Wh  heap=17096
+[meter] #1910 V=244.41 V  I=6.608 A  P=1607.0 W  PF=0.997  f=49.84 Hz  E=463.027 Wh  heap=17096
+[meter] #1915 V=243.70 V  I=6.588 A  P=1622.3 W  PF=1.000  f=49.84 Hz  E=465.268 Wh  heap=17096
+[meter] #1920 V=243.31 V  I=6.569 A  P=1603.7 W  PF=1.000  f=49.84 Hz  E=467.495 Wh  heap=17096
+[meter] #1925 V=244.23 V  I=6.588 A  P=1606.4 W  PF=0.995  f=49.86 Hz  E=469.721 Wh  heap=17096
+[meter] #1930 V=244.20 V  I=6.588 A  P=1609.8 W  PF=1.000  f=49.88 Hz  E=471.960 Wh  heap=17096
+[meter] #1935 V=244.44 V  I=6.588 A  P=1628.5 W  PF=1.000  f=49.88 Hz  E=474.202 Wh  heap=17096
+[meter] #1940 V=244.23 V  I=7.498 A  P=1832.2 W  PF=1.000  f=49.90 Hz  E=476.514 Wh  heap=17096
+[meter] #1945 V=244.02 V  I=7.498 A  P=1828.1 W  PF=0.998  f=49.90 Hz  E=479.057 Wh  heap=17096
+[meter] #1950 V=244.05 V  I=7.479 A  P=1839.8 W  PF=1.000  f=49.90 Hz  E=481.597 Wh  heap=17096
+[meter] #1955 V=243.73 V  I=7.479 A  P=1810.2 W  PF=0.993  f=49.92 Hz  E=484.135 Wh  heap=17096
+[meter] #1960 V=244.27 V  I=7.498 A  P=1850.9 W  PF=1.000  f=49.92 Hz  E=486.676 Wh  heap=17096
+[meter] #1965 V=244.52 V  I=7.518 A  P=1822.2 W  PF=0.993  f=49.92 Hz  E=489.224 Wh  heap=17096
+[meter] #1970 V=244.41 V  I=7.498 A  P=1851.6 W  PF=1.000  f=49.92 Hz  E=491.773 Wh  heap=17096
+[meter] #1975 V=243.95 V  I=7.479 A  P=1816.4 W  PF=0.995  f=49.92 Hz  E=494.316 Wh  heap=17096
+[meter] #1980 V=244.41 V  I=6.588 A  P=1626.7 W  PF=1.000  f=49.92 Hz  E=496.783 Wh  heap=17096
+[meter] #1985 V=244.55 V  I=6.588 A  P=1602.6 W  PF=0.991  f=49.92 Hz  E=499.027 Wh  heap=17096
+[meter] #1990 V=244.66 V  I=6.588 A  P=1621.8 W  PF=1.000  f=49.94 Hz  E=501.271 Wh  heap=17096
+[meter] #1995 V=244.66 V  I=6.608 A  P=1625.6 W  PF=1.000  f=49.94 Hz  E=503.515 Wh  heap=17096
+[meter] #2000 V=244.62 V  I=6.608 A  P=1604.9 W  PF=0.995  f=49.94 Hz  E=505.760 Wh  heap=17096
+[meter] #2005 V=244.80 V  I=6.608 A  P=1635.2 W  PF=1.000  f=49.94 Hz  E=508.006 Wh  heap=17096
+[meter] #2010 V=244.76 V  I=6.608 A  P=1609.2 W  PF=0.994  f=49.94 Hz  E=510.253 Wh  heap=17096
+[meter] #2015 V=244.91 V  I=6.608 A  P=1613.0 W  PF=0.993  f=49.94 Hz  E=512.502 Wh  heap=17096
+[meter] #2020 V=248.24 V  I=0.514 A  P=128.1 W  PF=1.000  f=49.94 Hz  E=513.783 Wh  heap=17096
+[meter] #2025 V=248.21 V  I=0.514 A  P=128.4 W  PF=1.000  f=49.96 Hz  E=513.963 Wh  heap=17096
+[meter] #2030 V=248.13 V  I=0.514 A  P=128.2 W  PF=1.000  f=49.96 Hz  E=514.142 Wh  heap=17096
+[meter] #2035 V=248.28 V  I=0.534 A  P=129.4 W  PF=1.000  f=49.96 Hz  E=514.322 Wh  heap=17096
+[meter] #2040 V=248.92 V  I=0.514 A  P=131.2 W  PF=0.986  f=49.96 Hz  E=514.502 Wh  heap=17096
+[meter] #2045 V=248.95 V  I=0.534 A  P=130.0 W  PF=0.977  f=49.98 Hz  E=514.683 Wh  heap=17096
+[meter] #2050 V=248.63 V  I=0.514 A  P=129.6 W  PF=1.000  f=49.98 Hz  E=514.863 Wh  heap=17096
+[meter] #2055 V=248.67 V  I=0.514 A  P=131.4 W  PF=0.989  f=49.96 Hz  E=515.043 Wh  heap=17096
+[meter] #2060 V=248.28 V  I=1.424 A  P=357.9 W  PF=1.000  f=49.98 Hz  E=515.390 Wh  heap=17096
+[meter] #2065 V=248.31 V  I=1.424 A  P=357.8 W  PF=1.000  f=49.98 Hz  E=515.884 Wh  heap=17096
+[meter] #2070 V=248.24 V  I=1.424 A  P=358.5 W  PF=1.000  f=49.98 Hz  E=516.378 Wh  heap=17096
+[meter] #2075 V=248.45 V  I=1.424 A  P=358.2 W  PF=0.998  f=49.96 Hz  E=516.873 Wh  heap=17096
+[meter] #2080 V=248.35 V  I=1.424 A  P=358.1 W  PF=1.000  f=49.98 Hz  E=517.367 Wh  heap=17096
+[meter] #2085 V=248.52 V  I=1.424 A  P=356.5 W  PF=1.000  f=49.98 Hz  E=517.861 Wh  heap=17096
+[meter] #2090 V=248.45 V  I=1.444 A  P=356.3 W  PF=1.000  f=49.98 Hz  E=518.356 Wh  heap=17096
+[meter] #2095 V=248.56 V  I=1.444 A  P=353.0 W  PF=0.997  f=50.00 Hz  E=518.850 Wh  heap=17096
+[meter] #2100 V=248.52 V  I=1.424 A  P=355.3 W  PF=0.989  f=50.02 Hz  E=519.345 Wh  heap=17096
+[meter] #2105 V=249.34 V  I=0.534 A  P=129.5 W  PF=0.972  f=50.02 Hz  E=519.642 Wh  heap=17096
+[meter] #2110 V=249.45 V  I=0.534 A  P=128.2 W  PF=0.962  f=50.04 Hz  E=519.823 Wh  heap=17096
+[meter] #2115 V=249.70 V  I=0.534 A  P=132.1 W  PF=0.990  f=50.04 Hz  E=520.004 Wh  heap=17096
+[meter] #2120 V=249.55 V  I=0.514 A  P=128.0 W  PF=0.997  f=50.02 Hz  E=520.185 Wh  heap=17096
+[meter] #2125 V=249.52 V  I=0.514 A  P=131.7 W  PF=1.000  f=50.02 Hz  E=520.366 Wh  heap=17096
+[meter] #2130 V=249.63 V  I=0.534 A  P=130.0 W  PF=0.975  f=50.02 Hz  E=520.547 Wh  heap=17096
+[meter] #2135 V=249.23 V  I=0.534 A  P=132.4 W  PF=0.994  f=50.02 Hz  E=520.728 Wh  heap=17096
+[meter] #2140 V=249.48 V  I=0.098 A  P=-0.3 W  PF=-0.015  f=50.04 Hz  E=520.842 Wh  heap=17096
+[meter] #2145 V=249.23 V  I=0.098 A  P=-0.1 W  PF=-0.007  f=50.04 Hz  E=520.843 Wh  heap=17096
+[meter] #2150 V=249.02 V  I=0.098 A  P=3.5 W  PF=0.142  f=50.06 Hz  E=520.844 Wh  heap=11776
+[ERROR] [2158011] [ST67W6XTask] (w61_at_sys.c:340) sem_if_ready not received
+[ERROR] [2158011] [ST67W6XTask] (w61_at_common.c:380) sem_if_ready not received
+[ERROR] [2158011] [ST67W6XTask] (w61_at_sys.c:312) Could not init Modem handler
+[ERROR] [2158011] [ST67W6XTask] (main_app.c:411) [ERROR] in W6X_Init API
+[ERROR] [2158012] [ST67W6XTask] (w6x_sys.c:136) W61 Init failed
+[ERROR] [2158012] [ST67W6XTask] (main_app.c:225) ST67W611M1 not responding: check wiring (SPI, RDY, EN, 3V3) and module firmware
+Retrying the Wi-Fi module in 300 s (metering continues). Press RESET then 't' to test it.
+[meter] #2155 V=249.27 V  I=0.098 A  P=-0.6 W  PF=-0.025  f=50.06 Hz  E=520.845 Wh  heap=16840
+[meter] #2160 V=249.55 V  I=0.098 A  P=0.0 W  PF=0.001  f=50.06 Hz  E=520.846 Wh  heap=16840
+[meter] #2165 V=249.66 V  I=0.098 A  P=1.4 W  PF=0.059  f=50.06 Hz  E=520.846 Wh  heap=16840
+[meter] #2170 V=249.80 V  I=0.098 A  P=0.4 W  PF=0.019  f=50.04 Hz  E=520.847 Wh  heap=16840
+[meter] #2175 V=246.57 V  I=0.098 A  P=-0.0 W  PF=0.000  f=50.06 Hz  E=520.848 Wh  heap=16840
+[meter] #2180 V=246.68 V  I=0.098 A  P=-0.1 W  PF=-0.005  f=50.06 Hz  E=520.849 Wh  heap=16840
+[meter] #2185 V=247.21 V  I=0.098 A  P=0.3 W  PF=0.015  f=50.08 Hz  E=520.850 Wh  heap=16840
+[meter] #2190 V=247.39 V  I=0.098 A  P=0.5 W  PF=0.022  f=50.08 Hz  E=520.851 Wh  heap=16840
+[meter] #2195 V=247.35 V  I=0.098 A  P=2.6 W  PF=0.109  f=50.10 Hz  E=520.852 Wh  heap=16840
+[meter] #2200 V=247.53 V  I=0.098 A  P=-0.1 W  PF=-0.006  f=50.10 Hz  E=520.853 Wh  heap=16840
+[meter] #2205 V=247.50 V  I=0.118 A  P=-0.3 W  PF=-0.015  f=50.10 Hz  E=520.854 Wh  heap=16840
+[meter] #2210 V=247.42 V  I=0.098 A  P=1.2 W  PF=0.050  f=50.10 Hz  E=520.855 Wh  heap=16840
+[meter] #2215 V=247.42 V  I=0.098 A  P=-0.2 W  PF=-0.010  f=50.12 Hz  E=520.856 Wh  heap=16840
+[meter] #2220 V=247.74 V  I=0.098 A  P=2.4 W  PF=0.100  f=50.10 Hz  E=520.856 Wh  heap=16840
+[meter] #2225 V=247.67 V  I=0.118 A  P=2.1 W  PF=0.087  f=50.10 Hz  E=520.858 Wh  heap=16840
+[meter] #2230 V=247.67 V  I=0.118 A  P=0.6 W  PF=0.024  f=50.10 Hz  E=520.859 Wh  heap=16840
+[meter] #2235 V=247.71 V  I=0.098 A  P=-1.0 W  PF=-0.040  f=50.12 Hz  E=520.859 Wh  heap=16840
+[meter] #2240 V=247.50 V  I=0.098 A  P=0.5 W  PF=0.022  f=50.10 Hz  E=520.860 Wh  heap=16840
+[meter] #2245 V=247.60 V  I=0.098 A  P=0.3 W  PF=0.014  f=50.10 Hz  E=520.861 Wh  heap=16840
+[meter] #2250 V=247.57 V  I=0.098 A  P=0.6 W  PF=0.026  f=50.12 Hz  E=520.861 Wh  heap=16840
+[meter] #2255 V=247.50 V  I=0.098 A  P=1.8 W  PF=0.077  f=50.10 Hz  E=520.862 Wh  heap=16840
+[meter] #2260 V=246.96 V  I=0.910 A  P=222.6 W  PF=1.000  f=50.12 Hz  E=520.891 Wh  heap=16840
+[meter] #2265 V=246.93 V  I=0.910 A  P=226.6 W  PF=1.000  f=50.12 Hz  E=521.205 Wh  heap=16840
+[meter] #2270 V=246.68 V  I=0.910 A  P=222.7 W  PF=1.000  f=50.12 Hz  E=521.518 Wh  heap=16840
+[meter] #2275 V=246.93 V  I=0.910 A  P=226.2 W  PF=1.000  f=50.12 Hz  E=521.830 Wh  heap=16840
+[meter] #2280 V=246.79 V  I=0.910 A  P=225.8 W  PF=1.000  f=50.12 Hz  E=522.143 Wh  heap=16840
+[meter] #2285 V=246.82 V  I=0.910 A  P=224.7 W  PF=1.000  f=50.10 Hz  E=522.455 Wh  heap=16840
+[meter] #2290 V=246.54 V  I=0.910 A  P=222.0 W  PF=1.000  f=50.10 Hz  E=522.767 Wh  heap=16840
+[meter] #2295 V=246.40 V  I=0.910 A  P=225.7 W  PF=1.000  f=50.08 Hz  E=523.079 Wh  heap=16840
+[meter] #2300 V=246.32 V  I=0.910 A  P=226.7 W  PF=1.000  f=50.08 Hz  E=523.391 Wh  heap=16840
+[meter] #2305 V=243.34 V  I=6.964 A  P=1698.7 W  PF=1.000  f=50.08 Hz  E=525.622 Wh  heap=16840
+[meter] #2310 V=243.13 V  I=6.944 A  P=1696.4 W  PF=1.000  f=50.08 Hz  E=527.973 Wh  heap=16840
+[meter] #2315 V=243.59 V  I=6.964 A  P=1706.4 W  PF=1.000  f=50.08 Hz  E=530.325 Wh  heap=16840
+[meter] #2320 V=243.88 V  I=6.984 A  P=1715.8 W  PF=1.000  f=50.08 Hz  E=532.688 Wh  heap=16840
+[meter] #2325 V=243.38 V  I=6.964 A  P=1715.9 W  PF=1.000  f=50.10 Hz  E=535.050 Wh  heap=16840
+[meter] #2330 V=243.24 V  I=6.964 A  P=1706.8 W  PF=1.000  f=50.10 Hz  E=537.401 Wh  heap=16840
+[meter] #2335 V=242.42 V  I=6.944 A  P=1685.6 W  PF=1.000  f=50.08 Hz  E=539.744 Wh  heap=16840
+[meter] #2340 V=242.17 V  I=6.925 A  P=1676.5 W  PF=0.999  f=50.08 Hz  E=542.079 Wh  heap=16840
+[meter] #2345 V=241.82 V  I=7.934 A  P=1923.3 W  PF=1.000  f=50.08 Hz  E=545.083 Wh  heap=16840
+[meter] #2350 V=241.68 V  I=7.736 A  P=1880.7 W  PF=1.000  f=50.08 Hz  E=547.702 Wh  heap=16840
+[meter] #2355 V=241.46 V  I=7.657 A  P=1863.4 W  PF=1.000  f=50.08 Hz  E=550.281 Wh  heap=16840
+[meter] #2360 V=241.75 V  I=7.637 A  P=1862.1 W  PF=1.000  f=50.08 Hz  E=552.847 Wh  heap=16840
+[meter] #2365 V=241.07 V  I=7.578 A  P=1835.5 W  PF=1.000  f=50.06 Hz  E=555.397 Wh  heap=16840
+[meter] #2370 V=241.46 V  I=7.597 A  P=1821.9 W  PF=0.992  f=50.06 Hz  E=557.937 Wh  heap=16840
+[meter] #2375 V=241.46 V  I=7.558 A  P=1816.0 W  PF=0.992  f=50.06 Hz  E=560.475 Wh  heap=16840
+[meter] #2380 V=242.00 V  I=7.558 A  P=1847.7 W  PF=1.000  f=50.04 Hz  E=563.012 Wh  heap=16840
+[meter] #2385 V=241.39 V  I=8.033 A  P=1930.4 W  PF=0.992  f=50.04 Hz  E=565.697 Wh  heap=16840
+[meter] #2390 V=241.32 V  I=8.013 A  P=1943.0 W  PF=1.000  f=50.04 Hz  E=568.386 Wh  heap=16840
+[meter] #2395 V=240.82 V  I=7.993 A  P=1935.0 W  PF=1.000  f=50.04 Hz  E=571.074 Wh  heap=16840
+[meter] #2400 V=241.14 V  I=8.013 A  P=1927.2 W  PF=0.997  f=50.04 Hz  E=573.748 Wh  heap=16840
+[meter] #2405 V=241.14 V  I=7.993 A  P=1932.6 W  PF=1.000  f=50.04 Hz  E=576.425 Wh  heap=16840
+[meter] #2410 V=241.14 V  I=7.973 A  P=1913.8 W  PF=0.995  f=50.04 Hz  E=579.097 Wh  heap=16840
+[meter] #2415 V=241.39 V  I=7.993 A  P=1943.2 W  PF=1.000  f=50.04 Hz  E=581.772 Wh  heap=16840
+[meter] #2420 V=241.39 V  I=7.973 A  P=1909.3 W  PF=0.991  f=50.04 Hz  E=584.443 Wh  heap=16840
+[meter] #2425 V=244.27 V  I=1.958 A  P=482.9 W  PF=0.999  f=50.02 Hz  E=585.757 Wh  heap=16840
+[meter] #2430 V=244.12 V  I=1.958 A  P=479.0 W  PF=1.000  f=50.02 Hz  E=586.421 Wh  heap=16840
+[meter] #2435 V=243.98 V  I=1.939 A  P=471.0 W  PF=0.995  f=50.02 Hz  E=587.083 Wh  heap=16840
+[meter] #2440 V=244.02 V  I=1.939 A  P=475.9 W  PF=1.000  f=50.00 Hz  E=587.742 Wh  heap=16840
+[meter] #2445 V=244.16 V  I=1.939 A  P=477.7 W  PF=1.000  f=50.02 Hz  E=588.399 Wh  heap=16840
+[meter] #2450 V=243.34 V  I=1.919 A  P=466.6 W  PF=0.999  f=50.02 Hz  E=589.054 Wh  heap=16840
+[ERROR] [2462012] [ST67W6XTask] (w61_at_sys.c:340) sem_if_ready not received
+[ERROR] [2462012] [ST67W6XTask] (w61_at_common.c:380) sem_if_ready not received
+[ERROR] [2462012] [ST67W6XTask] (w61_at_sys.c:312) Could not init Modem handler
+[ERROR] [2462012] [ST67W6XTask] (main_app.c:411) [ERROR] in W6X_Init API
+[ERROR] [2462013] [ST67W6XTask] (w6x_sys.c:136) W61 Init failed
+[ERROR] [2462013] [ST67W6XTask] (main_app.c:225) ST67W611M1 not responding: check wiring (SPI, RDY, EN, 3V3) and module firmware
+Retrying the Wi-Fi module in 300 s (metering continues). Press RESET then 't' to test it.
+[meter] #2455 V=243.27 V  I=1.919 A  P=470.1 W  PF=1.000  f=50.02 Hz  E=589.705 Wh  heap=16584
+[meter] #2460 V=244.05 V  I=1.939 A  P=471.0 W  PF=1.000  f=50.02 Hz  E=590.357 Wh  heap=16584
+[meter] #2465 V=244.30 V  I=1.404 A  P=343.6 W  PF=0.987  f=50.02 Hz  E=590.868 Wh  heap=16584
+[meter] #2470 V=243.95 V  I=1.385 A  P=342.3 W  PF=0.998  f=50.00 Hz  E=591.344 Wh  heap=16584
+[meter] #2475 V=244.09 V  I=1.404 A  P=343.5 W  PF=1.000  f=50.00 Hz  E=591.817 Wh  heap=16584
+[meter] #2480 V=243.88 V  I=1.385 A  P=340.4 W  PF=0.993  f=49.98 Hz  E=592.288 Wh  heap=16584
+[meter] #2485 V=244.66 V  I=1.385 A  P=340.3 W  PF=0.990  f=49.98 Hz  E=592.760 Wh  heap=16584
+[meter] #2490 V=244.52 V  I=1.385 A  P=338.5 W  PF=0.999  f=49.98 Hz  E=593.230 Wh  heap=16584
+[meter] #2495 V=244.69 V  I=1.385 A  P=337.2 W  PF=1.000  f=49.98 Hz  E=593.698 Wh  heap=16584
+[meter] #2500 V=244.66 V  I=1.365 A  P=339.7 W  PF=1.000  f=50.00 Hz  E=594.166 Wh  heap=16584
+[meter] #2505 V=244.02 V  I=1.879 A  P=462.8 W  PF=1.000  f=50.00 Hz  E=594.745 Wh  heap=16584
+[meter] #2510 V=243.91 V  I=1.899 A  P=459.1 W  PF=1.000  f=49.98 Hz  E=595.382 Wh  heap=16584
+[meter] #2515 V=243.77 V  I=1.879 A  P=457.0 W  PF=0.997  f=49.98 Hz  E=596.019 Wh  heap=16584
+[meter] #2520 V=243.59 V  I=1.879 A  P=459.9 W  PF=1.000  f=49.96 Hz  E=596.654 Wh  heap=16584
+[meter] #2525 V=244.34 V  I=1.879 A  P=462.5 W  PF=1.000  f=49.96 Hz  E=597.289 Wh  heap=16584
+[meter] #2530 V=244.20 V  I=1.859 A  P=454.0 W  PF=0.999  f=49.96 Hz  E=597.924 Wh  heap=16584
+[meter] #2535 V=244.69 V  I=1.879 A  P=458.5 W  PF=1.000  f=49.96 Hz  E=598.559 Wh  heap=16584
+[meter] #2540 V=244.83 V  I=1.879 A  P=461.0 W  PF=1.000  f=49.94 Hz  E=599.194 Wh  heap=16584
+[meter] #2545 V=244.48 V  I=1.424 A  P=345.1 W  PF=1.000  f=49.94 Hz  E=599.742 Wh  heap=16584
+[meter] #2550 V=244.48 V  I=1.404 A  P=350.4 W  PF=1.000  f=49.94 Hz  E=600.224 Wh  heap=16584
+[meter] #2555 V=247.71 V  I=1.424 A  P=351.5 W  PF=0.996  f=49.92 Hz  E=600.712 Wh  heap=16584
+[meter] #2560 V=247.96 V  I=1.424 A  P=358.2 W  PF=1.000  f=49.92 Hz  E=601.204 Wh  heap=16584
+[meter] #2565 V=247.89 V  I=1.424 A  P=353.6 W  PF=0.987  f=49.94 Hz  E=601.697 Wh  heap=16584
+[meter] #2570 V=247.92 V  I=1.424 A  P=355.4 W  PF=1.000  f=49.94 Hz  E=602.190 Wh  heap=16584
+[meter] #2575 V=248.03 V  I=1.424 A  P=354.8 W  PF=0.990  f=49.94 Hz  E=602.682 Wh  heap=16584
+[meter] #2580 V=247.96 V  I=1.424 A  P=349.0 W  PF=0.988  f=49.94 Hz  E=603.175 Wh  heap=16584
+[meter] #2585 V=248.06 V  I=0.910 A  P=231.2 W  PF=1.000  f=49.94 Hz  E=603.539 Wh  heap=16584
+[meter] #2590 V=247.82 V  I=0.910 A  P=225.0 W  PF=0.997  f=49.94 Hz  E=603.853 Wh  heap=16584
+[meter] #2595 V=248.10 V  I=0.910 A  P=227.3 W  PF=1.000  f=49.94 Hz  E=604.167 Wh  heap=16584
+[meter] #2600 V=247.74 V  I=0.910 A  P=226.6 W  PF=1.000  f=49.92 Hz  E=604.482 Wh  heap=16584
+[meter] #2605 V=247.57 V  I=0.910 A  P=225.6 W  PF=1.000  f=49.92 Hz  E=604.795 Wh  heap=16584
+[meter] #2610 V=247.60 V  I=0.910 A  P=223.7 W  PF=0.992  f=49.92 Hz  E=605.109 Wh  heap=16584
+[meter] #2615 V=247.50 V  I=0.910 A  P=229.2 W  PF=1.000  f=49.92 Hz  E=605.423 Wh  heap=16584
+[meter] #2620 V=247.14 V  I=0.910 A  P=224.8 W  PF=0.999  f=49.92 Hz  E=605.736 Wh  heap=16584
+[meter] #2625 V=246.47 V  I=1.622 A  P=400.4 W  PF=1.000  f=49.92 Hz  E=606.543 Wh  heap=16584
+[meter] #2630 V=246.57 V  I=1.483 A  P=364.7 W  PF=0.983  f=49.92 Hz  E=607.069 Wh  heap=16584
+[meter] #2635 V=246.89 V  I=1.444 A  P=359.1 W  PF=1.000  f=49.92 Hz  E=607.571 Wh  heap=16584
+[meter] #2640 V=246.72 V  I=1.424 A  P=349.6 W  PF=0.981  f=49.92 Hz  E=608.064 Wh  heap=16584
+[meter] #2645 V=246.64 V  I=1.404 A  P=352.9 W  PF=1.000  f=49.92 Hz  E=608.551 Wh  heap=16584
+[meter] #2650 V=246.72 V  I=1.404 A  P=344.6 W  PF=0.994  f=49.92 Hz  E=609.034 Wh  heap=16584
+[meter] #2655 V=246.79 V  I=1.385 A  P=348.2 W  PF=1.000  f=49.92 Hz  E=609.515 Wh  heap=16584
+[meter] #2660 V=246.93 V  I=1.385 A  P=341.4 W  PF=0.984  f=49.92 Hz  E=609.993 Wh  heap=16584
+[meter] #2665 V=244.20 V  I=7.479 A  P=1814.9 W  PF=0.993  f=49.92 Hz  E=611.436 Wh  heap=16584
+[meter] #2670 V=244.16 V  I=7.459 A  P=1834.7 W  PF=1.000  f=49.92 Hz  E=613.967 Wh  heap=16584
+[meter] #2675 V=244.12 V  I=7.439 A  P=1823.7 W  PF=1.000  f=49.92 Hz  E=616.494 Wh  heap=16584
+[meter] #2680 V=244.52 V  I=7.459 A  P=1810.1 W  PF=0.992  f=49.92 Hz  E=619.026 Wh  heap=16584
+[meter] #2685 V=244.52 V  I=7.459 A  P=1840.5 W  PF=1.000  f=49.94 Hz  E=621.559 Wh  heap=16584
+[meter] #2690 V=244.23 V  I=7.439 A  P=1810.8 W  PF=0.996  f=49.94 Hz  E=624.088 Wh  heap=16584
+[meter] #2695 V=244.37 V  I=7.459 A  P=1835.1 W  PF=1.000  f=49.94 Hz  E=626.615 Wh  heap=16584
+[meter] #2700 V=244.37 V  I=7.459 A  P=1804.2 W  PF=0.992  f=49.94 Hz  E=629.142 Wh  heap=16584
+[meter] #2705 V=244.73 V  I=7.004 A  P=1731.2 W  PF=1.000  f=49.94 Hz  E=631.555 Wh  heap=16584
+[meter] #2710 V=244.62 V  I=6.984 A  P=1699.1 W  PF=0.991  f=49.96 Hz  E=633.931 Wh  heap=16584
+[meter] #2715 V=244.62 V  I=6.984 A  P=1705.1 W  PF=0.998  f=49.96 Hz  E=636.308 Wh  heap=16584
+[meter] #2720 V=244.66 V  I=6.984 A  P=1725.9 W  PF=1.000  f=49.96 Hz  E=638.684 Wh  heap=16584
+[meter] #2725 V=244.30 V  I=6.984 A  P=1709.7 W  PF=1.000  f=49.96 Hz  E=641.056 Wh  heap=16584
+[meter] #2730 V=244.20 V  I=6.984 A  P=1695.7 W  PF=0.994  f=49.96 Hz  E=643.424 Wh  heap=16584
+[meter] #2735 V=244.34 V  I=6.984 A  P=1723.2 W  PF=1.000  f=49.96 Hz  E=645.792 Wh  heap=16584
+[meter] #2740 V=244.30 V  I=6.964 A  P=1692.1 W  PF=0.991  f=49.94 Hz  E=648.161 Wh  heap=16584
+[meter] #2745 V=244.94 V  I=6.094 A  P=1507.0 W  PF=1.000  f=49.94 Hz  E=650.402 Wh  heap=16584
+[meter] #2750 V=244.87 V  I=6.094 A  P=1487.1 W  PF=0.996  f=49.96 Hz  E=652.475 Wh  heap=16584
+[meter] #2755 V=244.73 V  I=6.074 A  P=1493.7 W  PF=1.000  f=49.96 Hz  E=654.547 Wh  heap=11264
+[ERROR] [2766013] [ST67W6XTask] (w61_at_sys.c:340) sem_if_ready not received
+[ERROR] [2766013] [ST67W6XTask] (w61_at_common.c:380) sem_if_ready not received
+[ERROR] [2766013] [ST67W6XTask] (w61_at_sys.c:312) Could not init Modem handler
+[ERROR] [2766013] [ST67W6XTask] (main_app.c:411) [ERROR] in W6X_Init API
+[ERROR] [2766014] [ST67W6XTask] (w6x_sys.c:136) W61 Init failed
+[ERROR] [2766014] [ST67W6XTask] (main_app.c:225) ST67W611M1 not responding: check wiring (SPI, RDY, EN, 3V3) and module firmware
+Retrying the Wi-Fi module in 300 s (metering continues). Press RESET then 't' to test it.
+[meter] #2760 V=244.66 V  I=6.094 A  P=1499.4 W  PF=1.000  f=49.96 Hz  E=656.616 Wh  heap=16344
+[meter] #2765 V=244.37 V  I=6.094 A  P=1475.0 W  PF=0.990  f=49.96 Hz  E=658.684 Wh  heap=16344
+[meter] #2770 V=244.66 V  I=6.094 A  P=1507.7 W  PF=1.000  f=49.96 Hz  E=660.752 Wh  heap=16344
+[meter] #2775 V=244.55 V  I=6.094 A  P=1478.8 W  PF=0.992  f=49.96 Hz  E=662.820 Wh  heap=16344
+[meter] #2780 V=244.83 V  I=6.094 A  P=1500.9 W  PF=1.000  f=49.96 Hz  E=664.891 Wh  heap=16344
+[meter] #2785 V=244.34 V  I=6.588 A  P=1611.1 W  PF=1.000  f=49.94 Hz  E=667.081 Wh  heap=16344
+[meter] #2790 V=244.62 V  I=6.588 A  P=1609.6 W  PF=0.998  f=49.94 Hz  E=669.322 Wh  heap=16344
+[meter] #2795 V=245.08 V  I=6.608 A  P=1640.8 W  PF=1.000  f=49.96 Hz  E=671.570 Wh  heap=16344
+[meter] #2800 V=245.05 V  I=6.608 A  P=1629.2 W  PF=1.000  f=49.96 Hz  E=673.822 Wh  heap=16344
+[meter] #2805 V=245.15 V  I=6.608 A  P=1613.3 W  PF=0.995  f=49.96 Hz  E=676.076 Wh  heap=16344
+[meter] #2810 V=244.80 V  I=6.608 A  P=1619.0 W  PF=1.000  f=49.96 Hz  E=678.326 Wh  heap=16344
+[meter] #2815 V=244.66 V  I=6.608 A  P=1628.4 W  PF=1.000  f=49.94 Hz  E=680.572 Wh  heap=16344
+[meter] #2820 V=244.69 V  I=6.588 A  P=1616.3 W  PF=0.999  f=49.92 Hz  E=682.818 Wh  heap=16344
+[meter] #2825 V=244.55 V  I=6.074 A  P=1481.8 W  PF=0.994  f=49.92 Hz  E=684.935 Wh  heap=16344
+[meter] #2830 V=244.98 V  I=6.094 A  P=1508.9 W  PF=1.000  f=49.92 Hz  E=687.006 Wh  heap=16344
+[meter] #2835 V=245.19 V  I=6.094 A  P=1488.1 W  PF=0.992  f=49.92 Hz  E=689.085 Wh  heap=16344
+[meter] #2840 V=245.12 V  I=6.094 A  P=1504.1 W  PF=1.000  f=49.92 Hz  E=691.163 Wh  heap=16344
+[meter] #2845 V=244.94 V  I=6.113 A  P=1499.3 W  PF=1.000  f=49.92 Hz  E=693.239 Wh  heap=16344
+[meter] #2850 V=244.55 V  I=6.094 A  P=1479.6 W  PF=0.995  f=49.92 Hz  E=695.310 Wh  heap=16344
+[meter] #2855 V=244.69 V  I=6.094 A  P=1506.5 W  PF=1.000  f=49.92 Hz  E=697.380 Wh  heap=16344
+[meter] #2860 V=244.59 V  I=6.074 A  P=1491.3 W  PF=1.000  f=49.92 Hz  E=699.447 Wh  heap=16344
+[meter] #2865 V=247.03 V  I=0.098 A  P=1.3 W  PF=0.055  f=49.90 Hz  E=700.036 Wh  heap=16344
+[meter] #2870 V=247.11 V  I=0.098 A  P=1.9 W  PF=0.102  f=49.90 Hz  E=700.037 Wh  heap=16344
+[meter] #2875 V=247.21 V  I=0.118 A  P=-0.0 W  PF=-0.003  f=49.90 Hz  E=700.038 Wh  heap=16344
